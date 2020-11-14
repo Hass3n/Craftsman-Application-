@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_gravity="center_horizontal"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:gravity="center_horizontal"
+    tools:context=".Basic.Taware"
+    android:orientation="vertical">
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/woke"
+        />
+
+    <Button
+        android:background="@drawable/bt_uisquare"
+        android:id="@+id/water"
+        android:layout_width="match_parent"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:layout_marginTop="30dp"
+      
+        android:textSize="30dp"
+        android:layout_height="wrap_content"
+        android:text="المياه"
+        />
+
+    <Button
+        android:id="@+id/health"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:background="@drawable/bt_uisquare"
+        android:layout_width="match_parent"
+        android:layout_below="@id/Herafy"
+        android:layout_marginTop="20dp"
+        android:textSize="30dp"
+        android:layout_height="wrap_content"
+        android:text="المطافى" />
+    <Button
+        android:background="@drawable/bt_uisquare"
+        android:id="@+id/kahraba"
+        android:layout_width="match_parent"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:layout_marginTop="20dp"
+        android:textSize="30dp"
+        android:layout_height="wrap_content"
+        android:text="الكهرباء"
+        />
+
+    <Button
+        android:id="@+id/gaj"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:background="@drawable/bt_uisquare"
+        android:layout_width="match_parent"
+        android:layout_below="@id/Herafy"
+        android:textSize="30dp"
+        android:layout_marginTop="20dp"
+        android:layout_height="wrap_content"
+        android:text="الغاز" />
+    <Button
+        android:id="@+id/sarf"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:background="@drawable/bt_uisquare"
+        android:layout_width="match_parent"
+        android:layout_below="@id/Herafy"
+        android:textSize="30dp"
+        android:layout_marginTop="20dp"
+        android:layout_height="wrap_content"
+        android:text="الصرف الصحى" />
+
+</LinearLayout>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "310341888073",
+    "firebase_url": "https://sanetna-a1dba.firebaseio.com",
+    "project_id": "sanetna-a1dba",
+    "storage_bucket": "sanetna-a1dba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310341888073:android:1fd69409558f35237cf798",
+        "android_client_info": {
+          "package_name": "astbina.sanetna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310341888073-03mrod0ug40cuqa0ctf4go96h9khr8aa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "astbina.sanetna",
+            "certificate_hash": "a2e709243ecece5208eb158d9f1ad1b32e91257c"
+          }
+        },
+        {
+          "client_id": "310341888073-fpgimr2gsf5olhlec5r954v5udr3onj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPnQKEV3PFOg1726sV4RlbvkI5eDy9h5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310341888073-fpgimr2gsf5olhlec5r954v5udr3onj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

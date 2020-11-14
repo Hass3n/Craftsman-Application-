@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_tesst"
+            android:icon="@drawable/account_profile"
+            android:title="@string/menu_te" />
+
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/account_profile"
+            android:title="@string/menu_profile" />
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home_one"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/helpone"
+            android:title="@string/menu_gallery" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/tawareone"
+            android:title="@string/menu_slideshow" />
+        <item
+            android:id="@+id/nav_tools"
+            android:icon="@drawable/websiteone"
+            android:title="@string/menu_tools" />
+
+        <item
+            android:id="@+id/nav_send"
+            android:icon="@drawable/postone"
+            android:title="@string/menu_post" />
+
+        <item
+            android:id="@+id/comp_send"
+            android:icon="@drawable/campanyone"
+            android:title="@string/menu_company" />
+
+        <item
+            android:id="@+id/chat"
+            android:icon="@drawable/chatone"
+            android:title="@string/menu_chat" />
+
+
+        <item
+            android:id="@+id/nav_requests"
+            android:icon="@drawable/requestone"
+            android:title="@string/menu_request" />
+        <item
+            android:id="@+id/nav_complete_requests"
+            android:icon="@drawable/wantedone"
+            android:title="@string/menu_complete_request" />
+
+        <item
+            android:id="@+id/nav_payment"
+            android:icon="@drawable/cardone"
+            android:title="@string/menu_payment" />
+
+        <item
+            android:id="@+id/nav_log_out"
+            android:icon="@drawable/logoutone"
+            android:title="@string/log_out" />
+
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/shareone"
+                android:title="@string/menu_share" />
+
+
+        </menu>
+    </item>
+
+</menu>

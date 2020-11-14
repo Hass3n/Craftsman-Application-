@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <color name="colorPrimary">#267797</color>
+
+    <color name="colorAccent">#267797</color>
+    <color name="colorprime">#378FE0</color>
+    <color name="colorBlue">#28A2CF</color>
+    <color name="colorBlueT">#6428a2cf</color>
+    <color name="colorPurple"> #378FE0</color>
+    <color name="colorPurpleT">#378CDB</color>
+    <color name="pink_edit">#f2f2f2</color>
+
+    <color name="colorPrimaryDark">#00574B</color>
+
+    <color name="colorBrown">#4B2010</color>
+    <color name="colorGrey">#707070</color>
+    <color name="colorBrownT">#FFD59E</color>
+    <color name="colorBlackT">#64000000</color>
+    <color name="colorBlack">#000000</color>
+    <color name="card_bg_color">#f6f6f6</color>
+    <color name="card_bg_dark_color">#252525</color>
+    <color name="title_text_color">#258bd6</color>
+    <color name="content_text_color">#999da4</color>
+    <color name="lightgray">#111111</color>
+    <color name="white" >#ffffff</color>
+    <color name="black" >#000009</color>
+    <color name="textInputLayout">#96ffffff</color>
+    <color name="colorPrimary2">#028678</color>
+    <color name="back">#eeeeee</color>
+
+    <color name="chat_home">#28C2F0</color>
+    <color name="c_chat">#F0ECE9</color>
+
+
+
+    <!-- Screens background color-->
+    <color name="bg_screen1">#3498db</color>
+    <color name="bg_screen2">#e74c3c</color>
+    <color name="bg_screen3">#9b59b6</color>
+    <color name="bg_screen4">#1abc9c</color>
+    <color name="dot_light_screen1">#6a89cc</color>
+    <color name="dot_light_screen2">#e55039</color>
+    <color name="dot_light_screen3">#82ccdd</color>
+    <color name="dot_light_screen4">#38ada9</color>
+
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#2980b9</color>
+    <color name="dot_dark_screen2">#c0392b</color>
+    <color name="dot_dark_screen3">#8e44ad</color>
+    <color name="dot_dark_screen4">#27ae60</color>
+
+
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen4</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen4</item>
+    </array>
+
+
+
+
+</resources>

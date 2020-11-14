@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Sanetna</string>
+    <string name="hello">Hello blank fragment</string>
+    <string name="txt">المــايـلة نعدلــها </string>
+    <string name="news">اخبار الجامعة</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">waleedkhadroui</string>
+    <string name="nav_header_subtitle">waleedkhadroui@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">الرئيسة</string>
+    <string name="menu_te">اختبار</string>
+    <string name="menu_profile">الإعدادات</string>
+    <string name="menu_gallery">المساعدة</string>
+    <string name="menu_slideshow">الطواريء</string>
+    <string name="menu_tools">الموقع</string>
+    <string name="menu_payment">الدفع</string>
+    <string name="menu_share">مشاركة</string>
+    <string name="menu_send">التواصل</string>
+    <string name="menu_company">الشركات والمعارض</string>
+    <string name="menu_post">المنشورات</string>
+    <string name="menu_request">الطلبات</string>
+    <string name="menu_complete_request">الأعمال المطلوبة</string>
+    <string name="log_out">تسجيل خروج</string>
+
+
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">افضل الخدمات</string>
+    <string name="slide_1_desc">يوجد افضل الحرفيين واسعار مناسبه</string>
+
+    <string name="slide_2_title">اسعار مناسبه</string>
+    <string name="slide_2_desc">اسعار مناسبه وفي المتناول</string>
+
+    <string name="slide_3_title">الدفع اون لاين </string>
+    <string name="slide_3_desc">يمكنك الدفع في خلال دقيقه</string>
+
+    <string name="slide_4_title">التواصل </string>
+    <string name="slide_4_desc">التواصل مع العميل في اسرع وقت</string>
+    <string name="skip">skip</string>
+    <string name="menu_chat">شات</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
+
+
+
+
